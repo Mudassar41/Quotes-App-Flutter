@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "561036436559",
+    "project_id": "quotes-app-ea340",
+    "storage_bucket": "quotes-app-ea340.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561036436559:android:67c5999baff4ec4d68363a",
+        "android_client_info": {
+          "package_name": "com.okey.qoutes_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561036436559-3hdbgcm0ggjgh9pqundsa9igdeqq7g0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIpjUqvs_YUGgr4xFYUhWiwyzi0mtDZLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561036436559-3hdbgcm0ggjgh9pqundsa9igdeqq7g0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
